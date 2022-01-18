@@ -1,6 +1,6 @@
 <h2>Desafio de projeto sobre Git-Github da Dio</h2>
 
-<img src="https://img.icons8.com/material-rounded/24/000000/code-fork.png"/> Repositório criando para o desafio de projeto.
+<img src="https://img.icons8.com/material-rounded/24/000000/code-fork.png"/> Repositório criado para o desafio de projeto.
 
 <img src="https://img.icons8.com/material-sharp/24/000000/precision-skill.png"/> Desafio
 
