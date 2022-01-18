@@ -9,3 +9,7 @@
 <img src="https://img.icons8.com/small/32/000000/knowledge-sharing.png"/> Colocando em prática os conhecimentos 
 
 <img src="https://img.icons8.com/dusk/50/000000/woman-at-computer.png"/>
+
+## Links úteis 
+
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
